@@ -12,7 +12,7 @@ This Python program is a mathematical utility designed to assist users in visual
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>s
+- <b>Windows 11</b>
 - <b>Visual Studio Code</b>
 
 <h2>Program walk-through:</h2>
